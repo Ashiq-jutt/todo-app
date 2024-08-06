@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "782962754874",
+    "project_id": "real-time-db-fa03e",
+    "storage_bucket": "real-time-db-fa03e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:782962754874:android:406e7636eba24c563f3c03",
+        "android_client_info": {
+          "package_name": "com.todoapp_mpt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "782962754874-kcvcqo61tpvuchrcijgfk6am6mipu5lf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgZvQcDe9Ktkw80EJQwijiEEUutUF25DM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "782962754874-kcvcqo61tpvuchrcijgfk6am6mipu5lf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
